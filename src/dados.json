@@ -1,0 +1,175 @@
+{
+    "data":[
+       {
+            "uf":"SP",
+            "groups":[
+                {"title":"Mulheres",
+                    "complaints": 11545,
+                    "cases": 60261
+                },
+                {"title":"Crianças e Adolescentes",
+                    "complaints": 30549,
+                    "cases": 180096
+                },
+                {"title":"Pessoas Idosas",
+                    "complaints": 16704,
+                    "cases": 99800
+                },
+                {"title":"Pessoas com deficiência",
+                    "complaints": 9072,
+                    "cases": 54845
+                },
+                {"title":"Pessoas em restrição de Liberdade",
+                    "complaints": 1055,
+                    "cases": 4157
+                },
+               {"title":"População LGBTQIA+",
+                    "complaints": 928,
+                    "cases": 5052
+                },
+                {"title":"Pessoas em Situação de Rua",
+                    "complaints": 294,
+                    "cases": 1698
+                }
+            ]
+        },
+        {
+            "uf":"RJ",
+            "groups":[
+                {"title":"Mulheres",
+                    "complaints": 8880,
+                    "cases": 47269
+                },
+                {"title":"Crianças e Adolescentes",
+                    "complaints": 13627,
+                    "cases": 80676
+                },
+                {"title":"Pessoas Idosas",
+                    "complaints": 9044,
+                    "cases": 52647
+                },
+                {"title":"Pessoas com deficiência",
+                    "complaints": 4552,
+                    "cases": 26659
+                },
+                {"title":"Pessoas em restrição de Liberdade",
+                    "complaints": 187,
+                    "cases": 804
+                },
+                {"title":"População LGBTQIA+",
+                    "complaints": 421,
+                    "cases": 2354
+                },
+                {"title":"Pessoas em Situação de Rua",
+                    "complaints": 225,
+                    "cases": 1506
+                }
+            ]
+    
+        },
+        {
+            "uf":"MG",
+            "groups":[
+               { "title":"Mulheres",
+                    "complaints": 5247,
+                    "cases": 27536
+                },
+               {"title":"Crianças e Adolescentes",
+                    "complaints": 11347,
+                    "cases": 64481
+                },
+               {"title":"Pessoas Idosas",
+                    "complaints":7672,
+                    "cases": 44564
+                },
+                {"title":"Pessoas com deficiência",
+                    "complaints": 4132,
+                    "cases": 24177
+                },
+               {"title":"Pessoas em restrição de Liberdade",
+                    "complaints": 528,
+                    "cases": 2687
+                },
+               {"title":"População LGBTQIA+",
+                    "complaints": 261,
+                    "cases": 1427
+                },
+               {"title":"Pessoas em Situação de Rua",
+                    "complaints": 109,
+                    "cases": 670
+                }
+            ]
+        },
+        {
+            "uf":"ES",
+          
+            "groups":[
+                {
+                    "title":"Mulheres",
+                    "complaints": 974,
+                    "cases": 4985
+                },
+                {
+                     "title":"Crianças e Adolescentes",
+                    "complaints": 2036,
+                    "cases": 11768
+                },
+                {
+                     "title":"Pessoas Idosas",
+                    "complaints": 1328,
+                    "cases": 7803
+                },
+                {
+                     "title":"Pessoas com deficiência",
+                    "complaints": 700,
+                    "cases": 4108
+                },
+                {
+                     "title":"Pessoas em restrição de Liberdade",
+                    "complaints": 83,
+                    "cases": 421
+                },
+            {
+                    "title":"População LGBTQIA+",
+                    "complaints": 39,
+                    "cases": 180
+                },
+                {
+                    "title":"Pessoas em Situação de Rua",
+                    "complaints": 19,
+                    "cases": 114
+                }
+            ]
+        }
+    ],
+    "type":[
+        {
+            "name":"Integridade",
+            "value": 1467733
+        },
+        {
+            "name":"Liberdade",
+            "value": 71432
+        },
+        {
+            "name":"Direitos sociais",
+            "value": 58581
+        },
+        {
+            "name":"Igualdade",
+            "value": 8145
+        },
+        {
+            "name":"Direitos civis e políticos",
+            "value": 5650
+        },
+        {
+            "name":"Vida",
+            "value": 1614
+        },
+        {
+            "name":"Meio Ambiente",
+            "value": 532
+        }
+    ]
+}
